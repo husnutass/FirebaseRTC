@@ -1,7 +1,7 @@
 {
   "projects": {
-    "default": "fir-rtc-89b99",
-    "webrtc": "jowo-915a1"
+    "webrtc": "jowo-915a1",
+    "default": "jowo-915a1"
   },
   "targets": {}
 }
